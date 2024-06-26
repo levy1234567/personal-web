@@ -1,0 +1,42 @@
+.intro,#foot{
+    display: flex;
+    color: rgb(235, 82, 133);
+    background-color:pink;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+#my-picture{
+    width:40vw;
+}
+.head-desc{
+    display: inline-flex;
+    color:peru;
+    justify-content: flex-start;
+    position: relative;
+    margin-left: 20px;
+    border-style:groove;
+    border-color:palegreen;
+    background-color: aquamarine;
+    align-items: baseline;
+    padding: 5px;
+}
+.details-desc-2{
+    display: inline-flex;
+    background-color: paleturquoise;
+    flex-direction: column;
+    margin-left: 50px;
+    padding-right: 153px;
+}
+.details-desc-1{
+    display: inline-flex;
+    background-color: paleturquoise;
+    flex-direction: column;
+    gap: 0px;
+    margin-left: 47px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+

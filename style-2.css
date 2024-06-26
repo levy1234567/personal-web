@@ -1,0 +1,30 @@
+ul{
+    list-style-type: none;
+}
+.intro,#foot{
+    display: flex;
+    color: rgb(235, 82, 133);
+    background-color:pink;
+    justify-content: center;
+    text-align: center;
+}
+#my-picture{
+    width:40vw;
+}
+.head-desc, .details-desc{
+    display: inline-flex;
+}
+.head-desc{
+    color:peru;
+    border-style:groove;
+    border-color:palegreen;
+    background-color: aquamarine;
+}
+.details-desc-1{
+    background-color: paleturquoise;
+    
+    padding-left: 30px;
+}
+.details-desc-2{
+    background-color: paleturquoise;
+}
